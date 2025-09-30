@@ -3,6 +3,8 @@ pandas
 matplotlib
 nltk
 scikit-learn
+transformers
+torch
 
 
 
